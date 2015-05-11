@@ -12,4 +12,5 @@ Psychometric analysis is the analysis of psychological tests and measurements to
 
 Psychometric analysis can be applied to improve or validate almost any instrument that measures human behavior, performance attitudes, abilities, or personality traits. Psychometric analysis is essential when an instrument produces a score that is used for high stakes decisions in organizations, such as hiring, performance review, assessment of potential, culture audits or management effectiveness.
 
-#I  still don't know which method can be used to do this. Need to discover...
+# Note
+I  still don't know which method can be used to do this. Need to discover...
