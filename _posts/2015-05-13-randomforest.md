@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Psychometric Analysis
+title: Random Forest
 modified: 2015-05-13
 
 ---
