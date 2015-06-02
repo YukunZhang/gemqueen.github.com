@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-I am a [statistician](https://www.linkedin.com/pub/yukun-zhang/35/83b/892) in training living in Calgary, AB, Canada. 
+I am a [statistician in training ](https://www.linkedin.com/pub/yukun-zhang/35/83b/892) living in Calgary, AB, Canada. 
 
 My home city is [Tianjin](https://www.google.ca/search?q=tianjin&oq=tianjin&aqs=chrome..69i57j69i60l4j69i61.900j0j7&sourceid=chrome&es_sm=122&ie=UTF-8), a beautiful metropolis in China. Tianjin is a livable and lovely city, however, I leave for Canada to pursue my career goal and create a better environment for my parents' later life.
 
