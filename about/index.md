@@ -10,7 +10,7 @@ My home city is [Tianjin](https://www.google.ca/search?q=tianjin&oq=tianjin&aqs=
 
 I have a happy and warm family and I am well-loved by friends. My husband is a software developer. My parents come visit us almost every year.
 
-I like travelling, my mom took me to the sea for the first time when I was 3. It started my journey. I have been to Beijing, and several places in Hebei, Anhui,Jiangxi, Jiangsu, Zhejiang, Guangdong and Yunnan Province.
+I like travelling, my mom took me to the sea for the first time when I was 3 years old. It started my journey. I have been to around 10 provinces in China.
 
 Since I came to Canada, we have been to Seattle, San Francisco, Orlando, San Diego, Los Angeles, Toronto, Vancouver and Halifax would be our next destination. We have a separate webpage to record all these journeys. 
 
