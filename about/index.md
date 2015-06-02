@@ -14,7 +14,7 @@ I like travelling, my mom took me to the sea for the first time when I was 3. It
 
 Since I came to Canada, we have been to Seattle, San Francisco, Orlando, San Diego, Los Angeles, Toronto, Vancouver and Halifax would be our next destination. We have a separate webpage to record all these journeys. 
 
-I am currently crazy about data science. I am trying to learn more to equip myself and take advantage of my software developer husband--he taught me how to use github and python soon :)
+I am currently crazy about data science. I am trying to learn more to equip myself.
 
 This webpage would be used to post all the learning ideas/reviews. I hope this webpage would track my study and drive me move forward, always.
 
