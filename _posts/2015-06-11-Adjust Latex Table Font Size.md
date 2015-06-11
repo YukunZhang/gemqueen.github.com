@@ -1,3 +1,9 @@
+---
+layout: post
+title: Adjust Latex Table Font Size
+modified: 2015-06-11
+
+---
 #####Latex table command
 ```latex
 \begin{table}[h]
