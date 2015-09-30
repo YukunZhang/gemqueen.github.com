@@ -12,11 +12,13 @@ I have a happy and warm family and I am well-loved by friends. My husband is a s
 
 I like travelling, my mom took me to the sea for the first time when I was 3 years old. It started my journey. I have been to around 10 provinces in China.
 
-Since I came to Canada, we have been to almost 10 cities in the US and Canada. Halifax would be our next destination. We have a separate webpage to record all these journeys. 
+Since I came to Canada, we have been to almost 10 cities in the US and Canada. We have a separate webpage to record all these journeys. 
 
 I am currently crazy about data science. I am trying to learn more to equip myself.
 
-This webpage would be used to post all the learning ideas/reviews. I hope this webpage would track my study and drive me move forward, always.
+This webpage would be used to post all the learning ideas/reviews. I hope this webpage would track my study and drive me move forward.
+
+My recent life goal is to do more exercises and make myself slim :)
 
 
 
