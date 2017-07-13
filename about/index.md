@@ -2,26 +2,44 @@
 layout: page
 title: About Me
 ---
+YUKUN ZHANG | RESUME
+===================
 
+----------
 
-I am a [statistician in training ](https://www.linkedin.com/pub/yukun-zhang/35/83b/892) living in Calgary, AB, Canada. 
+#### SUMMARY
 
-My home city is [Tianjin](https://www.google.ca/search?q=tianjin&oq=tianjin&aqs=chrome..69i57j69i60l4j69i61.900j0j7&sourceid=chrome&es_sm=122&ie=UTF-8), a beautiful metropolis in China. Tianjin is a livable and lovely city, however, I leave for Canada to pursue my career goal and create a better environment for my parents' later life.
+Creative data scientist, M.Sc, B.Sc in Statistics, minor in Finance. Expertise of machine learning lies in clustering, classification, regression, mixture models, etc. Statistical analyses techniques are in the area of predictive analytics, survival analysis, longitudinal analysis, multivariate analysis, and power calculations, etc.
 
-I have a happy and warm family and I am well-loved by friends. My husband is a software developer. My parents come visit us almost every year.
+Certified SAS Advanced Programmer for SAS 9. Data-driven solution and R package developer. Author of packages PAactivPAL and PASenseWear. Strong proficiency in big data storage and predictive visual analytic using R, ggplot, Tableau, SAS, Python, SQL, Oracle, VBA, ect.
 
-I like travelling, my mom took me to the sea for the first time when I was 3 years old. It started my journey. I have been to around 10 provinces in China.
+#### EMPLOYMENT EXPERIENCE
 
-Since I came to Canada, we have been to almost 10 cities in the US and Canada. We have a separate webpage to record all these journeys. 
+**Statistician**, 2015-Present
+University of Calgary, Calgary    
 
-I am currently crazy about data science. I am trying to learn more to equip myself.
+- Providing data science consultation for clinicians in the methods of statistical analysis and interpretation of rich structured and highly unstructured medical record.
 
-This webpage would be used to post all the learning ideas/reviews. I hope this webpage would track my study and drive me move forward.
+- Involving in architecture and implementation of cutting edge visual analytic solutions for physical activity data. Lead the design and implementation of new components and publish R packages with the
+fundamental units of reproducible codes.
 
-My recent life goal is to do more exercises and make myself slim :)
+**Statistical Research Analyst**, 2014-2015
+University of Calgary, Calgary
 
+- Conducted advanced statistical analysis, simulation study and data management using R/SAS/SQL. Supervised co-workers within the research team regarding data management, data analysis and programming issues. Communicated with clinicians to translate ideas and provide consultation for study design and decision making.
 
+- Presented research outcomes to audience with different backgrounds in departmental seminars and international conferences. Prepared technical report of data analyses for scientific presentations and research manuscripts submitted to peer-reviewed journal.
 
-## Contact Me:
+**Data Analyst**, 2013
+Alberta Health Services, Calgary
 
-* [LinkedIn](https://www.linkedin.com/pub/yukun-zhang/35/83b/892)
+- Involved in the project evaluated new biomarkers to identify patients who might at decreased risk of dying from lung cancer.
+
+- Carried out all aspects of the statistical analyses from cleaning the clinical data set to recommending final models with the guidance of Dr. Karen Kopciuk, Research Scientist and Statistician.
+
+- Applied Cox proportional hazard model to the data and selected the final multivariate models with the help of non-parametric methods (e.g. Kaplan Meier), multi-state models with analyses carried out using SAS and R. Wrote a non-technical summary of our finding from the preliminary, descriptive and regression modeling phases as well as model evaluation.
+
+**Graduate Teaching Assistant** , 2012 - 2014
+University of Calgary, Calgary
+
+- Illustrated statistical tests, taught R programming and led students to read research papers. Cooperated with the instructor by giving constructive feedback to improve a newly created syllabus. Interacted tactfully to guide and encourage the students on their academic pursuit.    
