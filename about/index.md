@@ -62,10 +62,10 @@ Provide summary table of daily physical activity and per-person/grouped heat map
 
 
 #### EDUCATION
+**Master of Science (M.Sc), Statistics**, 2012-2014
+
 **University of Calgary**, Calgary
 
-
-**Master of Science (M.Sc), Statistics**, 2012-2014
 
 - Conference Presenter: Annual Meeting (41st in Edmonton, 2013, 42nd in Toronto, 2014 and 43rd in Halifax, 2015) of the Statistical Society of Canada
 
@@ -77,10 +77,9 @@ Provide summary table of daily physical activity and per-person/grouped heat map
 
 - Skilled in advanced DATA step programming, macro processing, accessing data using SQL and advanced programming techniques
 
-**Southeast University (Nanjing Institute of Technology)**, Nanjing
-
-
 **Bachelor of Science (B.Sc), Statistics**, 2008-2012
+
+**Southeast University (Nanjing Institute of Technology)**, Nanjing
 
 - Honorable Mention of the Interdisciplinary Contest in Modeling (ICM, USA), from the Consortium for Mathematics and Its Application (COMAP, USA), 2011
 
