@@ -5,7 +5,8 @@ YUKUN ZHANG | RESUME
 
 Creative data scientist, M.Sc, B.Sc in Statistics. Expertise of machine learning lies in clustering, classification, regression, mixture models, etc. Statistical analyses techniques are in the area of predictive analytics, survival analysis, longitudinal analysis, multivariate analysis, and power calculations, etc.
 
-Certified SAS Advanced Programmer for SAS 9. Data-driven solution and R package developer. Author of packages PAactivPAL and PASenseWear. Strong proficiency in big data storage and predictive visual analytic using R, ggplot, Tableau, SAS, Python, SQL, Oracle, VBA, etc.
+Certified SAS Advanced Programmer for SAS 9. Data-driven solution and R package developer. Author of packages [PAactivPAL](https://cran.r-project.org/web/packages/PAactivPAL/PAactivPAL.pdf)
+ and [PASenseWear](https://cran.r-project.org/web/packages/PASenseWear/index.html). Strong proficiency in big data storage and predictive visual analytic using R, ggplot, Tableau, SAS, Python, SQL, Oracle, VBA, etc.
 
 #### EMPLOYMENT EXPERIENCE
 
@@ -42,7 +43,7 @@ University of Calgary, Calgary
 
 - Illustrated statistical tests, taught R programming and led students to read research papers. Cooperated with the instructor by giving constructive feedback to improve a newly created syllabus. Interacted tactfully to guide and encourage the students on their academic pursuit.    
 
-####  PUBLICATIONS
+####  [PUBLICATIONS](https://scholar.google.com/citations?user=k_QDUd8AAAAJ&hl=zh-CN)
 **PACKAGES**
 
 - *PAactivPAL*
