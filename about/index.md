@@ -1,11 +1,5 @@
----
-layout: page
-title: About Me
----
 YUKUN ZHANG | RESUME
 ===================
-
-----------
 
 #### SUMMARY
 
@@ -43,3 +37,45 @@ Alberta Health Services, Calgary
 University of Calgary, Calgary
 
 - Illustrated statistical tests, taught R programming and led students to read research papers. Cooperated with the instructor by giving constructive feedback to improve a newly created syllabus. Interacted tactfully to guide and encourage the students on their academic pursuit.    
+
+####  PUBLICATIONS
+**PACKAGES**
+
+- *PAactivPAL*
+Summarize physical activity (Mets, Proportion, Total, etc.) in the given time period from accelerometer data.
+
+- *PASenseWear*
+Provide summary table of daily physical activity and per-person/grouped heat map for accelerometer data from SenseWear Armband.
+
+**PAPERS**
+
+- Yukun Zhang, Xuewen Lu, and Anthony F. Desmond. Variable selection in a log linear birnbaum saunders regression model for high-dimensional survival data via the elastic-net and stochastic em. Technometrics, 58(3):383-392, 2016
+
+- Tolulope T Sajobi, Yukun Zhang, Bijoy K Menon, Mayank Goyal, Andrew M Demchuk, Joseph P Broderick, and Michael D Hill. Effect size estimates for the escape trial proportional odds regression versus other statistical methods. Stroke, 46(7):1800-1805, 2015
+
+- Bijoy K Menon, Tolulope T Sajobi, Yukun Zhang, Jeremy L Rempel, Ashfaq Shuaib, John Thornton, David Williams, Daniel Roy, Alexandre Y Poppe, Tudor G Jovin, et al. Analysis of workflow and time to treatment on thrombectomy outcome in the escape randomized controlled trial. Circulation, pages CIRCULATIONAHA 115, 2016
+
+#### EDUCATION
+**University of Calgary**, Calgary
+**Master of Science (M.Sc), Statistics**, 2012-2014
+
+- Conference Presenter: Annual Meeting (41st in Edmonton, 2013, 42nd in Toronto, 2014 and 43rd in Halifax, 2015) of the Statistical Society of Canada
+
+- Departmental Graduate Assistant Teaching Excellence Award Winner, 2013
+
+**SAS Certificated Advanced Programmer by SAS**, 2013
+
+- Skilled in advanced DATA step programming, macro processing, accessing data using SQL and advanced programming techniques
+
+**Southeast University (Nanjing Institute of Technology)**, Nanjing
+**Bachelor of Science (B.Sc), Statistics & Minor in Finance**, 2008-2012
+
+- Honorable Mention of the Interdisciplinary Contest in Modeling (ICM, USA), from the Consortium for
+
+- Mathematics and Its Application (COMAP, USA), 2011
+
+
+----------
+✴ Reference available upon request
+✴ Click italic in resume for online details
+✴ Click HERE for full publications list
