@@ -87,5 +87,4 @@ Provide summary table of daily physical activity and per-person/grouped heat map
 
 ----------
 ✴ Reference available upon request
-✴ Click italic in resume for online details
-✴ Click HERE for full publications list
+
