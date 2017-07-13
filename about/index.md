@@ -46,10 +46,10 @@ University of Calgary, Calgary
 ####  [PUBLICATIONS](https://scholar.google.com/citations?user=k_QDUd8AAAAJ&hl=zh-CN)
 **PACKAGES**
 
-- *PAactivPAL*
+- [*PAactivPAL*](https://cran.r-project.org/web/packages/PAactivPAL/PAactivPAL.pdf)
 Summarize physical activity (Mets, Proportion, Total, etc.) in the given time period from accelerometer data.
 
-- *PASenseWear*
+- [*PASenseWear*](https://scholar.google.com/citations?user=k_QDUd8AAAAJ&hl=zh-CN)
 Provide summary table of daily physical activity and per-person/grouped heat map for accelerometer data from SenseWear Armband.
 
 **PAPERS**
